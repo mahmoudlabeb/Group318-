@@ -1,0 +1,3 @@
+introduced in PHP 8, “PHP Match” is a new control structure that is similar to a switch statement but with a more concise syntax and enhanced functionality. Essentially, “PHP Match” performs a comparison with a value and executes the corresponding block of code if a match is found. The major advantage of “PHP Match” over “Switch” is its ability to perform strict comparisons and return values, making it a powerful tool in the PHP developer’s toolbox.
+
+Php match بتقدم كود انظف واسرع اداء خصوصا عند التعامل مع عدد كبير من الحالات
